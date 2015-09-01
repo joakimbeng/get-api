@@ -1,6 +1,6 @@
 {
   "name": "get-api",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Get API information from a module",
   "main": "src/index.js",
   "scripts": {
