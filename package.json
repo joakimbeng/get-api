@@ -12,6 +12,7 @@
     "information"
   ],
   "author": "Joakim Carlstein <joakim@klei.se>",
+  "repository": "joakimbeng/get-api",
   "license": "MIT",
   "devDependencies": {
     "ava": "*",
